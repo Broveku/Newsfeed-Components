@@ -143,7 +143,7 @@ function articleMaker({title, date, firstParagraph, secondParagraph, thirdParagr
   return article
 }
 
-const testArticle = articleMaker({title: 'Test Title' , date: '5/12/1909', p1: 'SHDGFKJsd', p2: 'dfjgnhdo' , p3: 'sfrhsf'})
+// const testArticle = articleMaker({title: 'Test Title' , date: '5/12/1909', p1: 'SHDGFKJsd', p2: 'dfjgnhdo' , p3: 'sfrhsf'})
 
 // console.log(testArticle)
 
